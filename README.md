@@ -29,7 +29,7 @@ Atualmente sou gestor de uma microempresa em Lavras-MG e pessoa estudante no cur
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="(https://www.linkedin.com/in/guilherme-fernandes-a64505189/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/guifernandesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/guifernandesjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="mailto:guifjj92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style='height: auto' target="_blank"></a>  
   
