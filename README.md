@@ -88,12 +88,12 @@ const skills =
         <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Git</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-      </td>
-      <td width="80px" align="center">
         <span><strong>GitHub</strong></span><br>
         <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
       </td>
     </tr>
     <tr valign="top">
