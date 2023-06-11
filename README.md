@@ -44,9 +44,23 @@ const skills =
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Redux</strong></span><br>
+        <img height="32px" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>RTL</strong></span><br>
+        <img height="32px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png">
+      </td>
+      <td width="80px" align="center">
         <span><strong>Javascript</strong></span><br>
         <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="80px" align="center">
         <span><strong>HTML</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -56,26 +70,12 @@ const skills =
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>React</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="80px" align="center">
         <span><strong>Jest</strong></span><br>
         <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>ESLint</strong></span><br>
         <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Solidity</strong></span><br>
-        <img height="32px" src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Web 3</strong></span><br>
-        <img height="32px" src="https://seeklogo.com/images/W/web3-logo-03377DB11E-seeklogo.com.png">
       </td>
     </tr>
     <tr valign="top">
@@ -102,8 +102,8 @@ const skills =
         <img height="32px" src="https://cdn.cdnlogo.com/logos/n/45/npm.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Office</strong></span><br>
-        <img height="28px" src="https://cdn.cdnlogo.com/logos/m/48/microsoft-office-2013-and-wordmark.svg">
+        <span><strong>Solidity</strong></span><br>
+        <img height="32px" src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>Excel</strong></span><br>
