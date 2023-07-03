@@ -7,8 +7,7 @@ const age = 31;
 
 const degree = ['Web developer Jr.', 'Technologist in financial management'];
 
-const status = 
-{ 
+const status = { 
   educationalInstitutions: ['Trybe', 'IFMG - Formiga'],
   work: {
     company: 'Sweet Pet - Estética Animal',
