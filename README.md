@@ -3,7 +3,7 @@
 ```js
 const name = 'Guilherme Fernandes';
 
-const age = 30;
+const age = 31;
 
 const degree = ['Web developer Jr.', 'Technologist in financial management'];
 
@@ -21,7 +21,7 @@ const skills =
 {
   languages :['Javascript', 'Solidity', 'VBA Excel'],
   design: ['CSS', 'Corel Draw', 'Figma'],
-  frameworks:['Bootstrap', 'React'],
+  frameworks:['Bootstrap', 'React', 'Redux', 'Jest', 'RTL'],
   platforms :['Linux', 'Git', 'VS Code', 'Microsoft Office'],
 }
 
