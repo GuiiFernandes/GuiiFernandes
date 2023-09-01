@@ -18,9 +18,9 @@ const status = {
 
 const skills = 
 {
-  languages :['Javascript', 'Solidity', 'VBA Excel'],
-  design: ['CSS', 'Corel Draw', 'Figma'],
-  frameworks:['Bootstrap', 'React', 'Redux', 'Jest', 'RTL'],
+  languages :['Javascript', 'SQL', 'Solidity', 'VBA Excel'],
+  design: ['CSS', 'Corel Draw', 'Figma', 'Tailwind', 'Bootstrap'],
+  frameworks:['React', 'Redux', 'Node.js', 'Jest', 'RTL', 'Vitest'],
   platforms :['Linux', 'Git', 'VS Code', 'Microsoft Office'],
 }
 
