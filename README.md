@@ -20,7 +20,7 @@ const skills =
 {
   languages :['Javascript', 'SQL', 'Solidity', 'VBA Excel'],
   design: ['CSS', 'Corel Draw', 'Figma', 'Tailwind', 'Bootstrap'],
-  frameworks:['React', 'Redux', 'Node.js', 'Jest', 'RTL', 'Vitest'],
+  frameworks:['React', 'Redux', 'Node.js', 'MySQL', 'Jest', 'RTL', 'Vitest'],
   platforms :['Linux', 'Git', 'VS Code', 'Microsoft Office'],
 }
 
