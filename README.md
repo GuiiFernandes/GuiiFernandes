@@ -3,24 +3,24 @@
 ```js
 const name = 'Guilherme Fernandes';
 
-const age = 31;
+const age = 32;
 
 const degree = ['Web developer Jr.', 'Technologist in financial management'];
 
 const status = { 
   educationalInstitutions: ['Trybe', 'IFMG - Formiga'],
   work: {
-    company: 'Sweet Pet - Estética Animal',
-    office: 'Financial Manager',
+    company: 'Prodoeste',
+    office: 'Business Intelligence Analyst',
   },
   interests: ['Web applications', 'Finance', 'Economy', 'Web3', 'Investments'],
 };
 
 const skills = 
 {
-  languages :['Javascript', 'Java', 'TypeScript', 'Python', 'SQL', 'Solidity', 'VBA Excel'],
-  design: ['CSS', 'Corel Draw', 'Figma', 'Tailwind', 'Styled Components', 'Bootstrap'],
-  frameworks:['React', 'Redux', 'Node.js', 'Spring Boot', 'PostgreSQL', 'MySQL', 'Jest', 'RTL', 'Vitest'],
+  languages :['Javascript', 'Java', 'TypeScript', 'Python', 'SQL', 'Solidity', 'VBA Excel', Java],
+  design: ['CSS', 'Corel Draw', 'Figma', 'Tailwind', 'Styled Components', 'Bootstrap', Canva],
+  frameworks:['React', 'Redux', 'Node.js', 'Spring Boot', 'PostgreSQL', 'MySQL', 'Jest', 'RTL', 'Vitest', NextJs, Spring Boot],
   platforms :['Linux', 'Git', 'VS Code', 'Microsoft Office'],
 }
 
