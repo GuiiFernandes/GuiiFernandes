@@ -43,6 +43,10 @@ const skills =
   <tbody>
     <tr valign="top">
       <td width="80px" align="center">
+        <span><strong>Next.JS</strong></span><br>
+        <img height="32px" src="https://static.cdnlogo.com/logos/n/80/next-js.svg">
+      </td>
+      <td width="80px" align="center">
         <span><strong>React</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
@@ -51,8 +55,22 @@ const skills =
         <img height="32px" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>RTL</strong></span><br>
-        <img height="32px" src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Redux</strong></span><br>
+        <img height="32px" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Vitest</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
       </td>
       <td width="80px" align="center">
         <span><strong>Javascript</strong></span><br>
