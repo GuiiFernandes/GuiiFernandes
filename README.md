@@ -55,29 +55,51 @@ const skills =
         <img height="32px" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Git</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+        <span><strong>Styled C.</strong></span><br>
+        <img height="32px" src="https://static.cdnlogo.com/logos/s/10/styled-components.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>React</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Redux</strong></span><br>
-        <img height="32px" src="https://cdn.cdnlogo.com/logos/r/69/redux.svg">
+        <span><strong>Typescript</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>Vitest</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Javascript</strong></span><br>
-        <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+        <span><strong>Python</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Pandas</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
       </td>
     </tr>
     <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Java</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Spring</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Maven</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Express</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="80px" align="center">
+        <span><strong>Node</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+      </td>
       <td width="80px" align="center">
         <span><strong>HTML</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -90,19 +112,33 @@ const skills =
         <span><strong>Jest</strong></span><br>
         <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>ESLint</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+        <span><strong>MySQL</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>PostgreSQL</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Prisma</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Sequelize</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>Bootstrap</strong></span><br>
-        <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+        <span><strong>Tailwind</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Node</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+        <span><strong>Bootstrap</strong></span><br>
+        <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>GitHub</strong></span><br>
@@ -119,8 +155,8 @@ const skills =
         <img height="32px" src="https://cdn.cdnlogo.com/logos/n/45/npm.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Solidity</strong></span><br>
-        <img height="32px" src="https://cdn.cdnlogo.com/logos/s/73/solidity.svg">
+        <span><strong>Power BI</strong></span><br>
+        <img height="32px" src="https://static.cdnlogo.com/logos/p/7/power-bi.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>Excel</strong></span><br>
