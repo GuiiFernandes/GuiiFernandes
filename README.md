@@ -5,7 +5,7 @@ const name = 'Guilherme Fernandes';
 
 const age = 32;
 
-const degree = ['Web developer Jr.', 'Technologist in financial management'];
+const degree = ['Web developer Jr.', 'Technologist in financial management', 'Data Analyst'];
 
 const status = { 
   educationalInstitutions: ['Trybe', 'IFMG - Formiga'],
